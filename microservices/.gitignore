@@ -1,0 +1,13 @@
+env
+carzone_project/
+frontend_next_js/
+interview_project/
+# microservices/
+my_react_app/
+node_modules/
+orm/
+package-lock.json
+package.json
+python_practice/
+taskmanager/
+testapp/
